@@ -6,7 +6,7 @@ from random import randint
 init("COM3")
 
 #Anger
-anger = ["damit", "fucking wall o m g", "I dont like this wall", "wall you bastard", "stupid wall g t f o", "this wall dough", "why you block me"]
+anger = ["darn it", "wall o m g", "I dont like this wall", "wall you bastard", "this wall is in the way", "this wall dough", "why you block me"]
 
 #Stage 1: Move forward until obstacle detected
 while (getObstacle("middle")==0):
