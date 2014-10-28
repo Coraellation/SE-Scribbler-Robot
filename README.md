@@ -1,6 +1,8 @@
 SE-Scribbler-Robot
 ==================
 
+Scribbler robot oject avoidance demonstration
+
 <h2>Main Features</h2>
 <ul>
 <li>Navigate around a rectangular obstacle when placed orthogonal or 45 degrees to the obstacle</li>
